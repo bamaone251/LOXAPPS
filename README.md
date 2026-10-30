@@ -32,7 +32,7 @@
 
 ## What it is
 
-Outbound loading runs on a lot of moving parts: which trailer is on which door, which run is loading, who is loading it, how long it's taking, which pallets got left behind, which selector built a bad pallet, where the stackers went, and which stores can't take a truck today. That information often lives on whiteboards, clipboards, radio calls and memory.
+Outbound loading runs on a lot of moving parts: which trailer is on which door, which run is loading, who is loading it, how long it's taking, which pallets got left behind, which selector built a bad pallet, tracking equipment, and which stores can't take a truck today. That information often lives on whiteboards, clipboards, radio calls and memory.
 
 **LOX LOAD DASH puts it all in one place.** It's a set of focused, phone-first web apps, each doing one job well, launched from a single home screen at **app.loxload.com**. Every app is shared and live, so the Yard Driver's phone, the Load Desk PC and the dock tablet all see the same state at the same moment.
 
