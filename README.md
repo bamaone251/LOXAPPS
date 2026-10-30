@@ -6,7 +6,7 @@
 
 **Eleven connected web apps that run outbound loading at the Loxley Distribution Center: trailers, runs, pallets, people, equipment and stores, all live and on every device.**
 
-[app.loxload.com](https://app.loxload.com) · *Tug Life* · Loxley, AL
+[app.loxload.com](https://app.loxload.com) · 
 
 <img src="docs/screenshots/dash.jpg" width="300" alt="LOX LOAD DASH home screen">
 
