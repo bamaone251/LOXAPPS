@@ -54,7 +54,7 @@ Outbound loading runs on a lot of moving parts: which trailer is on which door, 
 | 🏠 | **LOX LOAD DASH** | `app.loxload.com` | Home screen with a live clock and one tile per app |
 | 1 | **Daily Notes** | `comms.loxload.com` | Shift notes, WOL assignments, photos, daily PDF archive |
 | 2 | **PLB Log** | `plblog.loxload.com` | Pallets Left Behind, scanned and shared live, exported to PDF |
-| 3 | **Error Log** *(Pallet Police)* | `error.loxload.com` | Selector pallet errors with photos and coaching follow-up |
+| 3 | **Error Log** | `error.loxload.com` | Selector pallet errors with photos and coaching follow-up |
 | 4 | **Trailer Moves** | `yard.loxload.com` | Live door board for doors 10–49, Yard Driver ↔ Load Desk |
 | 5 | **Loader Times** | `tracker.loxload.com` | Per-loader run stopwatches and the team scoreboard |
 | 6 | **Efficiency Calc** | `ops.loxload.com` | Staffing plan and load-efficiency calculator (0.67 target) |
