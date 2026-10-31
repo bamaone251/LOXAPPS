@@ -64,20 +64,7 @@ Outbound loading runs on a lot of moving parts: which trailer is on which door, 
 | 10 | **Printer** | `print.andytalbert.com` | Numbered blank load map sheets as a PDF |
 | 11 | **Store Map** | `map.loxload.com` | 112 division stores with delivery notes, directions and live radar |
 
-<table>
-<tr>
-<td align="center"><img src="docs/screenshots/yard_top.jpg" width="200"><br><sub><b>Trailer Moves</b></sub></td>
-<td align="center"><img src="docs/screenshots/tracker_top.jpg" width="200"><br><sub><b>Loader Times</b></sub></td>
-<td align="center"><img src="docs/screenshots/lm_filled.jpg" width="200"><br><sub><b>Load Maps</b></sub></td>
-<td align="center"><img src="docs/screenshots/map_main.jpg" width="200"><br><sub><b>Store Map</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="docs/screenshots/comms_top.jpg" width="200"><br><sub><b>Daily Notes</b></sub></td>
-<td align="center"><img src="docs/screenshots/err_list.jpg" width="200"><br><sub><b>Error Log</b></sub></td>
-<td align="center"><img src="docs/screenshots/eq_list.jpg" width="200"><br><sub><b>Equipment Tracker</b></sub></td>
-<td align="center"><img src="docs/screenshots/wol_top.jpg" width="200"><br><sub><b>WOL Checklist</b></sub></td>
-</tr>
-</table>
+
 
 ---
 
